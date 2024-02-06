@@ -1,4 +1,4 @@
-
+// 숫자 야구 게임
 
 import java.util.Arrays;
 import java.util.Scanner;
